@@ -1,0 +1,19 @@
+{
+  "name": "technologie-chmurowe-zadanie-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-locale-map": "^1.8.0",
+    "express": "^4.17.3",
+    "fast-geoip": "^1.1.67",
+    "ipaddr.js": "^2.0.1",
+    "public-ip": "^5.0.0"
+  }
+}
